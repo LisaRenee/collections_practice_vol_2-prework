@@ -72,4 +72,3 @@ def organize_schools(schools)
   h.merge!(h3)
   h
 end
-
